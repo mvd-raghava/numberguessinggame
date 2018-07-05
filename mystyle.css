@@ -1,0 +1,36 @@
+body{
+    background-color:#eee;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.main{
+    background-color:white;
+    margin: 50px auto;
+    border-radius:5px;
+    max-width:500px;
+    min-height:300px;
+    padding:20px;
+    box-shadow: 0px 5px 5px gray;
+}
+
+h3{
+    margin:0;
+    text-align: center;
+    
+}
+
+.main p{
+    text-align: justify;
+}
+
+input:focus{
+    outline: none;
+}
+
+#result{
+    padding: 3px;
+    border-radius: 2px; 
+    text-align:center;
+    color: white;
+}
